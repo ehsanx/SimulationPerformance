@@ -14,7 +14,7 @@ One model was fitted and saved the following 5 estimates from each simulation it
 - `est.LowCI`: Lower bound of confidence interval estimate obtained from the model
 - `est.HiCI`: Upper bound of confidence interval estimate obtained from the model
 
-The data is saved in the `Data` folder.
+The obtained simulation results/estimates are saved in the `Data` folder.
 
 ## Usage
 
