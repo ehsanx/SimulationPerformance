@@ -6,7 +6,7 @@ Data was generated from a time-dependent process. True parameter was set to -0.7
 
 ## Estimates to save
 
-One model was fitted and saved 4 estimates from each simulation iteration:
+One model was fitted and saved the following 5 estimates from each simulation iteration (in the current version, done 1,000 times):
 
 - `est`: parameter estimate from the model
 - `est.SE`: SE estimate obtained from the model
